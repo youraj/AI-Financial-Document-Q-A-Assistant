@@ -1,0 +1,6 @@
+.agents
+.claude
+__pycache__
+.env
+tasks.md
+app.log
